@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  },
+  "name": "freqmachine",
+  "version": "1.0.0",
+  "description": "file reader and testing",
+  "main": "fileReader.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Matt Puleri",
+  "license": "ISC"
+}
